@@ -1,3 +1,4 @@
 My first line i project
 Lodon is the capital of GB
 Kyiv is the capital of Ukraine
+Paris is the capital of France
